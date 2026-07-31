@@ -5,13 +5,13 @@
     -Data Science is the study of data to find useful information and make better decisions.
 
 ## Tools Used :
-      *Python
-      *SQL
-      *Excel
-      *Pandas
-      *NumPy
-      *Power BI
-      *Tableau
+    * Python
+    * SQL
+    * Excel
+    * Pandas
+    * NumPy
+    * Power BI
+    * Tableau
 
 ## Python Programming
     Python is the most popular language in Data Science because it is simple and powerful.
