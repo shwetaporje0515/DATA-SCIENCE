@@ -31,5 +31,19 @@
     * Used for machine learning.
     * Automates repetitive tasks.
     
+## SQL (Structured Query Language)
+    SQL is used to work with databases.
     
-
+  ## Topics Covered :
+    * SELECT
+    * WHERE
+    * ORDER BY
+    * GROUP BY
+    * HAVING
+    * JOIN
+    * Subqueries
+    
+  ## Why It Is Important
+    * Retrieves data from databases.
+    * Filters and organizes large amounts of data.
+    
